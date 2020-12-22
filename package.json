@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "changelog": {
+    "repo": "ruizhengyun/lerna-app",
+    "labels": {
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "doc": "Refine Doc",
+      "feat": "New Feature"
+    },
+    "cacheDir": ".changelog"
+  }
+}
